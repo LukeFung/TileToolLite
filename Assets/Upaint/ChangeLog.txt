@@ -1,0 +1,18 @@
+Upaint v1.2
+*Added multiple color palettes and saving/loading in custom locations
+*Added the area fill tool (Paint Bucket)
+*Added copy and paste tiles
+*Light maintenance
+
+UPaint v1.1
+
+BUG FIXES
+*Increased speed when importing large tilesets.
+*Preview is no longer darker than the actually image
+
+FEATURES
+*Added the ability to toggle on and off the grid
+*Added flipping a tile vertically and horizontally
+*Added rotating a tile clockwise and counter clockwise
+*Palletes are now saved
+*Increased tile size maximum to 16
